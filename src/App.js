@@ -14,10 +14,10 @@ const App = () => {
 
   if(tours.length === 0){
     return (
-      <div className = "referesh">
+      <div className = "refresh">
         <h2>No Tours Left</h2>
         <button className="btn-white" onClick={() => setTours(data)}>
-          Referesh
+          Refresh
         </button>
       </div>
       // <Shimmer/>

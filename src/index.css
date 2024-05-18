@@ -81,7 +81,7 @@ body{
     color: white;
     transition: all 0.2s;
 }
-.referesh{
+.refresh{
     height: 100vh;
     display: flex;
     align-items: center;
